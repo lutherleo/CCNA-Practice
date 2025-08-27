@@ -22,6 +22,7 @@ Nothing fancy — just me learning, breaking stuff, and fixing it again.
 - Cisco Packet Tracer  
 - A lot of `show` and `debug` commands :)
 
+
 ---
 
 
